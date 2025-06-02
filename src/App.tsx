@@ -398,7 +398,7 @@ const App: React.FC = () => {
         }}
         title="Team Up"
       >
-        {React.createElement(FaUsers, { color: "#fffbe6" })}
+        <FaUsers color="#fffbe6" size={32} />
       </TeamUpFab>
       {teamUpOpen && <TeamUpModal onClose={() => setTeamUpOpen(false)} places={places.map(p => ({id: p.id, name: p.name}))} />}
     </AppContainer>
