@@ -6,10 +6,6 @@ A modern, minimal web app for discovering and sharing Bellevue-area dog-friendly
 
 ## Features
 
-### 🐾 Minimal & Modern UI
-- Centered logo in the top bar (clickable, returns to homepage).
-- Warm brown/beige color scheme, modern fonts (Oswald for headings, Quicksand for body text).
-- Responsive layout for desktop and mobile.
 
 ### 🗺️ Card + Map Layout
 - **Left:** Scrollable list of park/trail cards. Each card shows name, dog-friendliness, and summary info.
